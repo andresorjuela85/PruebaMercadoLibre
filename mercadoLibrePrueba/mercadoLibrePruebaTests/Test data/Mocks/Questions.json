@@ -1,0 +1,205 @@
+{
+    "total": 12,
+    "limit": 50,
+    "questions": [
+        {
+            "date_created": "2025-03-14T11:57:27.182-04:00",
+            "item_id": "MCO1551973661",
+            "seller_id": 176893593,
+            "status": "UNANSWERED",
+            "text": "como funciona la garantia y das factura electronica",
+            "tags": [],
+            "id": 13295838221,
+            "answer": null
+        },
+        {
+            "date_created": "2025-03-14T06:30:53.509-04:00",
+            "item_id": "MCO1551973661",
+            "seller_id": 176893593,
+            "status": "UNANSWERED",
+            "text": "Hola es la versión china de IPhone?",
+            "tags": [],
+            "id": 13295620329,
+            "answer": null
+        },
+        {
+            "date_created": "2025-03-10T22:23:04.710-04:00",
+            "item_id": "MCO1551973661",
+            "seller_id": 176893593,
+            "status": "ANSWERED",
+            "text": "Tienen pago contra entrega?",
+            "tags": [],
+            "id": 13293093407,
+            "answer": {
+                "text": "¡Hola! Actualmente, no ofrecemos la opción de pago contra entrega. Sin embargo, tenemos varias opciones de pago disponibles, como tarjeta de crédito, PSE, tarjeta de débito, dinero en cuenta de MercadoPago y efectivo a través de Efecty. Si estás interesado en adquirir el Apple iPhone 16e (128gb) Negro, no dudes en hacérnoslo saber. ¡Estamos aquí para ayudarte!",
+                "status": "ACTIVE",
+                "date_created": "2025-03-10T22:24:23.601-04:00"
+            }
+        },
+        {
+            "date_created": "2025-03-10T18:28:03.382-04:00",
+            "item_id": "MCO1551973661",
+            "seller_id": 176893593,
+            "status": "ANSWERED",
+            "text": "Tienen tienda física en Antioquia?",
+            "tags": [],
+            "id": 13293530824,
+            "answer": {
+                "text": "¡Hola! Actualmente, ofrecemos la opción de retirar en domicilio del vendedor en chapinero, Bogotá D.C. No contamos con una tienda física en Antioquia. Sin embargo, podemos ayudarles con la compra del Apple iPhone 16e (128gb) Negro, que está en promoción a $3.099.000 con un 23% de descuento. Si están interesados, podemos proceder con la compra.",
+                "status": "ACTIVE",
+                "date_created": "2025-03-10T18:31:16.562-04:00"
+            }
+        },
+        {
+            "date_created": "2025-03-10T15:48:02.434-04:00",
+            "item_id": "MCO1551973661",
+            "seller_id": 176893593,
+            "status": "ANSWERED",
+            "text": "Cuánto demora la entrega en medellín?",
+            "tags": [],
+            "id": 13292787189,
+            "answer": {
+                "text": "Buenas tardes, de 2 a 3 días hábiles",
+                "status": "ACTIVE",
+                "date_created": "2025-03-10T15:49:28.349-04:00"
+            }
+        },
+        {
+            "date_created": "2025-03-09T23:15:16.656-04:00",
+            "item_id": "MCO1551973661",
+            "seller_id": 176893593,
+            "status": "ANSWERED",
+            "text": "Hola, podria comprar un forro y vidrio tambien con ustedes?",
+            "tags": [],
+            "id": 13292262125,
+            "answer": {
+                "text": "¡Hola! Actualmente, solo ofrecemos el iPhone 16e y no vendemos forros ni vidrios. Sin embargo, si estás interesado en el iPhone 16e, tenemos 8 unidades disponibles. ¡Hazlo tuyo ahora!",
+                "status": "ACTIVE",
+                "date_created": "2025-03-09T23:19:49.352-04:00"
+            }
+        },
+        {
+            "date_created": "2025-03-08T08:54:46.005-04:00",
+            "item_id": "MCO1551973661",
+            "seller_id": 176893593,
+            "status": "ANSWERED",
+            "text": "¿Emite factura electrónica con IVA?",
+            "tags": [],
+            "id": 13291282095,
+            "answer": {
+                "text": "Buenos dias, no señor",
+                "status": "ACTIVE",
+                "date_created": "2025-03-08T08:56:26.091-04:00"
+            }
+        },
+        {
+            "date_created": "2025-03-07T21:24:21.282-04:00",
+            "item_id": "MCO1551973661",
+            "seller_id": 176893593,
+            "status": "ANSWERED",
+            "text": "Otra pregunta ¿ Qué accesorios trae el equipo ?",
+            "tags": [],
+            "id": 13291139209,
+            "answer": {
+                "text": "Buenas tardes, el cable de carga como viene de fábrica",
+                "status": "ACTIVE",
+                "date_created": "2025-03-07T21:29:47.548-04:00"
+            }
+        },
+        {
+            "date_created": "2025-03-07T21:20:10.830-04:00",
+            "item_id": "MCO1551973661",
+            "seller_id": 176893593,
+            "status": "ANSWERED",
+            "text": "Buenas ¿ El equipo es nuevo o es renano facturado ? Gracias por responder",
+            "tags": [],
+            "id": 13291745840,
+            "answer": {
+                "text": "¡Hola! El iPhone 16e que ofrecemos es nuevo. Contamos con 10 unidades disponibles. Si estás interesado, ¡hazlo tuyo ahora!",
+                "status": "ACTIVE",
+                "date_created": "2025-03-07T21:29:23.023-04:00"
+            }
+        },
+        {
+            "date_created": "2025-03-07T17:52:10.234-04:00",
+            "item_id": "MCO1551973661",
+            "seller_id": 176893593,
+            "status": "UNANSWERED",
+            "text": "Saludos! Feliz dia!",
+            "tags": [],
+            "id": 13291626878,
+            "answer": null
+        },
+        {
+            "date_created": "2025-03-07T09:55:05.508-04:00",
+            "item_id": "MCO1551973661",
+            "seller_id": 176893593,
+            "status": "UNANSWERED",
+            "text": "Cordial saludo...este dispositivo viene con SIM física ....o solo es E-sim...... gracias...",
+            "tags": [],
+            "id": 13291249910,
+            "answer": null
+        },
+        {
+            "date_created": "2025-03-07T09:09:32.901-04:00",
+            "item_id": "MCO1551973661",
+            "seller_id": 176893593,
+            "status": "UNANSWERED",
+            "text": "Buen día, tiene sim física y esim al tiempo?",
+            "tags": [],
+            "id": 13291211828,
+            "answer": null
+        }
+    ],
+    "filters": {
+        "limit": 50,
+        "offset": 0,
+        "api_version": "4",
+        "is_admin": false,
+        "sorts": [],
+        "caller": null,
+        "item": "MCO1551973661"
+    },
+    "available_filters": [
+        {
+            "id": "from",
+            "name": "From user id",
+            "type": "number"
+        },
+        {
+            "id": "seller",
+            "name": "Seller id",
+            "type": "number"
+        },
+        {
+            "id": "totalDivisions",
+            "name": "total divisions",
+            "type": "number"
+        },
+        {
+            "id": "division",
+            "name": "Division",
+            "type": "number"
+        },
+        {
+            "id": "status",
+            "name": "Status",
+            "type": "text",
+            "values": [
+                "ANSWERED",
+                "BANNED",
+                "CLOSED_UNANSWERED",
+                "DELETED",
+                "DISABLED",
+                "UNANSWERED",
+                "UNDER_REVIEW"
+            ]
+        }
+    ],
+    "available_sorts": [
+        "item_id",
+        "from_id",
+        "date_created",
+        "seller_id"
+    ]
+}
